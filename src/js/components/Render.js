@@ -39,9 +39,6 @@ export function Render() {
       variable.canvasWidth / 2 - 150,
       variable.canvasHeight / 2,
     );
-    alert(`GAME OVER, YOU SCORE IS: ${variable.score}`);
-    document.location.reload();
-    clearInterval(interval);
   }
 
   // Creates a new level and increases asteroid speed
