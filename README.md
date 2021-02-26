@@ -10,4 +10,8 @@
 
 -Use this command to open it in browser: npm start
 
+#GamePlay
 
+- [W A S D] ===> move;
+
+- [Space] ====> fire;
